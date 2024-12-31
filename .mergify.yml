@@ -8,3 +8,4 @@ pull_request_rules:
       label:
         toggle:
           - conflict
+queue_rules: []
